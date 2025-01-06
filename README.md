@@ -20,7 +20,7 @@ Development Tools: JDK 1.8 (or higher)
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/Bank-Management-System.git
+   git clone https://github.com/Manju200417/Bank_Management_System
 
 **Navigate to the Project Directory:** cd Bank-Management-System             
 **Compile the Code:**  javac Bank.java
